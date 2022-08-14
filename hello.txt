@@ -1,1 +1,2 @@
 hello world
+squash 1
