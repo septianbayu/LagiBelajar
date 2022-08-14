@@ -1,7 +1,7 @@
 hello world aja
-squash 1
-squash 2
-squash 3
-squash 4
-squash 5
-squash 6
+Squash 1
+Squash 2
+Squash 3
+Squash 4
+Squash 5
+Squash 6
